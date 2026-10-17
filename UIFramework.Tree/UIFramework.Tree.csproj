@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\UIFramework.Core\UIFramework.Core.csproj" />
+    <ProjectReference Include="..\UIFramework.Controls\UIFramework.Controls.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="UIFramework.Core/UIFramework.Core.csproj" />
+  <Project Path="UIFramework.Controls/UIFramework.Controls.csproj" />
+  <Project Path="UIFramework.Tree/UIFramework.Tree.csproj" />
+</Solution>
